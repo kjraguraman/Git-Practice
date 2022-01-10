@@ -1,3 +1,2 @@
-Checking git
-Editing check file
+Checking git with vscode
 
