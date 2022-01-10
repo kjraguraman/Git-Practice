@@ -1,2 +1,2 @@
-Adding another check file
+//Deleted one line
 Editing file
