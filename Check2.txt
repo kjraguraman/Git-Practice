@@ -1,2 +1,1 @@
-//Deleted one line
-Editing file
+Adding to another branch using checkout command
