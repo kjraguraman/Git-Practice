@@ -1,1 +1,1 @@
-Push with vscode
+Push with vscode with checking stash
