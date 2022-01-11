@@ -1,2 +1,2 @@
 checking..
-editing to check pull with git ui
+editing to check push with git gui
